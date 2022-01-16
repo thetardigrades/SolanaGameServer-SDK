@@ -4,7 +4,7 @@
 * Solana Game Server is a property of Tardigrade Life Sciences, Inc and has no
 formal relationship with Solana Labs.
 
-See [https://github.com/GabeDottl/Solana-Game-Server](https://github.com/GabeDottl/Solana-Game-Server).
+See [https://github.com/GabeDottl/Solana-Game-Server](https://github.com/GabeDottl/Solana-Game-Server) for api/code/implementation/issues.
 
 (Think web3 SDK for game developers as a service)
 
