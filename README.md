@@ -1,6 +1,7 @@
-Solana Game Server* is the first decentralized Game Server designed for game developers & web3.
+# Solana Game Server* is the first decentralized Game Server designed for game developers & web3.
+solanagameserver.com
 
-solanagameserver.com - Solana Game Server is a property of Tardigrade Life Sciences, Inc and has no
+* Solana Game Server is a property of Tardigrade Life Sciences, Inc and has no
 formal relationship with Solana Labs.
 
 (Think web3 SDK for game developers as a service)
