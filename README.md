@@ -115,6 +115,9 @@ Not there yet.
 ## Where's the API? Is it locked?
 See API.md for latest work or todo_and_status.md. The API is not yet locked / requests are welcome.
 
+## Where are the Solana smart contracts?
+see [SDK.md](SDK.md).
+
 ## Are there tests?
 Where there are APIs, there will be tests.
 
@@ -195,6 +198,8 @@ Also, https://github.com/paul-schaaf/awesome-solana.
 https://docs.google.com/document/d/15X4FWa8i-tR7nsjn_CncPbc80zsGmiMD9bMKOUmTzzI/edit#
 
 ## Why Solana?
+https://medium.com/solana-labs/sealevel-parallel-processing-thousands-of-smart-contracts-d814b378192
+
 "From all the “Ethereum killers”, Solana emerged in 2021 as the hottest one, with the most engaged developer community. Through a unique blend of eight technological innovations (including Proof of History), it alleviates many of the problems that plague other blockchains and has been able to reach record levels of speed and transaction volumes." - source: https://learn.figment.io/protocols/solana
 
 Visa-scale + permanent, public transaction history + trustless compute = best web3 game experience*
