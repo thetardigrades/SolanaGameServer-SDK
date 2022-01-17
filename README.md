@@ -54,6 +54,9 @@ web3 games (WIP): tardigrades.fun
 solana stake-authorize $W3 --stake-authority $W1 --new-stake-authority  \
     --fee-payer <KEYPAIR>
 
+# What is GameFi?
+https://www.bloomberg.com/news/articles/2022-01-15/gamefi-is-a-new-crypto-craze-what-s-it-all-about-quicktake
+
 # Possible features (sorted by priority)
 - Echo + Log and Broadcast Messages
 - Stable, free non-blockchain API for testing
