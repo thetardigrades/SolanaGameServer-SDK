@@ -16,7 +16,7 @@ mechanisms for small and large games alike.
 The most popular 'crypto games' today are limited in their complexity by their blockchain (Ethereum)
 or the complexity of building secure, interesting blockchain-based mechanics (Solana et al).
 
-Game developers are held back from crypto by a few holdups:
+Game developers can be held back from crypto by a few holdups:
 1) Poor performance and scaling on EVM-compatible blockchains
 2) Poor infrastructure support on most performant chain (Solana) compared to EVM infrastructure
    and terrible in comparison to web2 gaming infrastructure.
@@ -25,8 +25,9 @@ Game developers are held back from crypto by a few holdups:
 4) Crypto is still broadly confusing, sketchy and a big target for hackers - which makes it
    harder for newer blockchain developers to be successful with web2 strategies.
 
-SGS endeavors to make it easier for game developers to take their web2 games and adapt them to
-web3 with Solana by building the best, secure, game-oriented smart contracts on Solana.
+Tardigrade Life Sciences, Inc endeavors to make it easier for game developers to take their web2
+games and adapt them to web3 with Solana by building the best, secure, game-oriented smart
+contracts on Solana.
 
 Why? Because Game development on Solana is *challenging*. Reference: See this *42p* document on
 how to build play-to-earn Solana games: https://learn.figment.io/tutorials/pay-to-play-gaming-on-solana.
@@ -45,8 +46,8 @@ Possible games: card battles, turn-based X, breeding, land ownership, metaverse 
 
 For best understanding of the current state of this project, see todo_and_status.md.
 
-*Solana Game Server is not directly owned or maintained by Solana Labs. The name 'Solana Game Server'
-is used instead of a codename to reduce ambiguity. Name suggestions welcome.
+*Solana Game Server is neither related to Solana Labs or the Solana Foundation. The name 'Solana Game
+Server' is as its name suggests - a Game Server on Solana.
 
 permalink: solanagameserver.com
 web3 games (WIP): tardigrades.fun
